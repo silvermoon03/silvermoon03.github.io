@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yihang Ding | Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 I'm Yihang Ding, a graduate student in Precision Medicine and Public Health at the [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 

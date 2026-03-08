@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yihang Ding, a graduate student in Precision Medicine and Public Health at the [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
+qweqwewqewqI'm Yihang Ding, a graduate student in Precision Medicine and Public Health at the [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
 My research interests include large language models and multimodal learning.
 
